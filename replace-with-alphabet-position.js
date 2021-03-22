@@ -1,3 +1,9 @@
+/**
+ * Replaces letters with their positions in the alphabet, starts with 1
+ * @param {string} text 
+ * @returns {string} positions
+ */
+
 function alphabetPosition(text) {
   let a='abcdefghijklmnopqrstuvwxyz'
   let resultingArray = []
